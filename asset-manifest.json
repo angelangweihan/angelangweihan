@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/angelangweihan/angelangweihan/static/css/main.073c9b0a.css",
-    "main.js": "/angelangweihan/angelangweihan/static/js/main.893f0978.js",
-    "static/js/787.dd635f8b.chunk.js": "/angelangweihan/angelangweihan/static/js/787.dd635f8b.chunk.js",
-    "static/media/logo.svg": "/angelangweihan/angelangweihan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/angelangweihan/angelangweihan/static/css/main.e6c13ad2.css",
+    "main.js": "/angelangweihan/angelangweihan/static/js/main.8b97b9e9.js",
     "index.html": "/angelangweihan/angelangweihan/index.html",
-    "main.073c9b0a.css.map": "/angelangweihan/angelangweihan/static/css/main.073c9b0a.css.map",
-    "main.893f0978.js.map": "/angelangweihan/angelangweihan/static/js/main.893f0978.js.map",
-    "787.dd635f8b.chunk.js.map": "/angelangweihan/angelangweihan/static/js/787.dd635f8b.chunk.js.map"
+    "main.e6c13ad2.css.map": "/angelangweihan/angelangweihan/static/css/main.e6c13ad2.css.map",
+    "main.8b97b9e9.js.map": "/angelangweihan/angelangweihan/static/js/main.8b97b9e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.893f0978.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8b97b9e9.js"
   ]
 }
