@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/angelangweihan/angelangweihan/static/css/main.e6c13ad2.css",
-    "main.js": "/angelangweihan/angelangweihan/static/js/main.8b97b9e9.js",
+    "main.css": "/angelangweihan/angelangweihan/static/css/main.a0cbcde7.css",
+    "main.js": "/angelangweihan/angelangweihan/static/js/main.e789234b.js",
+    "static/media/profile.png": "/angelangweihan/angelangweihan/static/media/profile.9dba22915584e9306ecf.png",
     "index.html": "/angelangweihan/angelangweihan/index.html",
-    "main.e6c13ad2.css.map": "/angelangweihan/angelangweihan/static/css/main.e6c13ad2.css.map",
-    "main.8b97b9e9.js.map": "/angelangweihan/angelangweihan/static/js/main.8b97b9e9.js.map"
+    "main.a0cbcde7.css.map": "/angelangweihan/angelangweihan/static/css/main.a0cbcde7.css.map",
+    "main.e789234b.js.map": "/angelangweihan/angelangweihan/static/js/main.e789234b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8b97b9e9.js"
+    "static/css/main.a0cbcde7.css",
+    "static/js/main.e789234b.js"
   ]
 }
